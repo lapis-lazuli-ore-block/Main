@@ -1,6 +1,8 @@
 # Main
 Όνομα ομάδας: Lapis Lazuli Ore Block
+
 GitHub organisation url: [Lapis Lazuli Ore Block](https://github.com/lapis-lazuli-ore-block)
+
 Νέα μέλη δεκτά: ΌΧΙ
 
 | # | ΑΜ | GitHub profile |
