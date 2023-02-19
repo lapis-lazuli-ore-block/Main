@@ -3,8 +3,6 @@
 
 GitHub organisation url: [Lapis Lazuli Ore Block](https://github.com/lapis-lazuli-ore-block)
 
-Νέα μέλη δεκτά: ΌΧΙ
-
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
 | 1 | 2018062 | [Stovag](https://github.com/stovag) |
